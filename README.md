@@ -4,6 +4,9 @@
 * [Buffer](https://buffer.com/resources/engineering-career-framework/)
 * [Monzo](https://monzo.com/documents/engineering-progression-framework-v2-0.pdf)
 
+### Other aggregators
+* [progression.fyi](https://www.progression.fyi/)
+
 ### Career ladder frameworks
 * [Engineering Ladders](https://github.com/jorgef/engineeringladders)
 
