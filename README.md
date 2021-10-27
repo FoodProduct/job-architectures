@@ -8,4 +8,4 @@
 * [Engineering Ladders](https://github.com/jorgef/engineeringladders)
 
 ### Previously public
-[Affirm](https://docs.google.com/document/d/1-b08j4jGn5muZzEMHU7G2c7i-hrib10T6VsKv6qjm0E/edit#)
+* [Affirm](https://docs.google.com/document/d/1-b08j4jGn5muZzEMHU7G2c7i-hrib10T6VsKv6qjm0E/edit#)
