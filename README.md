@@ -10,5 +10,8 @@
 ### Career ladder frameworks
 * [Engineering Ladders](https://github.com/jorgef/engineeringladders)
 
+### Generic company-specific leveling
+* [Levels at Amazon](https://www.levels.fyi/blog/amazon-leveling-progress.html)
+
 ### Previously public
 * [Affirm](https://docs.google.com/document/d/1-b08j4jGn5muZzEMHU7G2c7i-hrib10T6VsKv6qjm0E/edit#)
